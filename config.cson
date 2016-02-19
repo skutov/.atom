@@ -1,0 +1,14 @@
+"*":
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "travis-ci-status"
+    ]
+    excludeVcsIgnoredPaths: false
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "ee168eff-6d12-f113-e62b-eacceafa9404"
+  "travis-ci-status": {}
+  welcome:
+    showOnStartup: false
